@@ -1,2 +1,2 @@
 # timesheet
-build this project using Maven Build to generate War file !
+build this project using automatic triger for every push !
