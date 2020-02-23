@@ -24,6 +24,7 @@
         </configuration>
       </plugin>
     </plugins>
+     <finalName>timesheet</finalName>
   </build>
   <dependencies>
   <!-- https://mvnrepository.com/artifact/javax.mail/mail -->
