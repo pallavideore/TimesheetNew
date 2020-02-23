@@ -21,11 +21,9 @@
         <version>3.0.0</version>
         <configuration>
           <warSourceDirectory>WebContent</warSourceDirectory>
-          
         </configuration>
       </plugin>
     </plugins>
-     <finalName>timesheet</finalName>
   </build>
   <dependencies>
   <!-- https://mvnrepository.com/artifact/javax.mail/mail -->
