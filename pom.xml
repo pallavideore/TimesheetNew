@@ -3,7 +3,7 @@
   <groupId>TimeSheet</groupId>
   <artifactId>TimeSheet</artifactId>
   <!--<version>0.0.1-SNAPSHOT</version>-->
-  <version></version>
+  <version>app</version>
   <packaging>war</packaging>
   <name>timesheet</name>
   <build>
